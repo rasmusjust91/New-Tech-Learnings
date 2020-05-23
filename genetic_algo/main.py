@@ -1,3 +1,7 @@
+'''
+Simple GA that finds a quick path
+'''
+
 import string
 import random
 
